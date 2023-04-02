@@ -8,5 +8,5 @@ submitButton.addEventListener("click", (event) => {
 fetch(url)
 .then((response) => response.json())
 .then((data) => {
-    image.innerHTML = `<strong/> My favorite pokemon is <strong/> ${data.name}<br> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${data.id}.png" alt="${data.name}">`
+    image.innerHTML = `<strong/> My favorite pokemon is <strong/> ${data.name}`
 })
