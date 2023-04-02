@@ -1,28 +1,18 @@
 # Portfolio-Project
 portfolio project !
 
-[ DIRECT INSTRUCTIONS TO APPLICATION BELOW ]
+[ DIRECT INSTRUCTIONS TO WEBPAGE BELOW ]
 
+This webpage is to display my overall profile within 
+Pursuit at the moment.
 
+Such as the current programming languages/skills I have learned and will be learning in the near future during cohort.
 
+Along with the hardest coding bug that I have dealt with so far and my mindest when trying to combat it.
 
+For the humorous/personality side of things I placed my favorite pokemon on the page when it loads. To conclude I placed a submit bar labeled "review-me" to place one word to describe my webpage.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Enjoy !
 
 
 [ OVERALL INSTRUCTIONS BELOW ] Front-end Portfolio Project This project is designed to test all of the skills you've learned so far. By the end of this project, you should have a portfolio-ready project you can share on your resume as well as with potential employers.
